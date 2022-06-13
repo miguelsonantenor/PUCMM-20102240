@@ -1,0 +1,12 @@
+ table,td,th{
+    border: 1px solid blue;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.box{
+    width: 30%;
+    height: 20%;
+    border: 1px solid gray;
+    
+}
